@@ -101,7 +101,7 @@ public class FrmManteProd extends JFrame {
 		llenaCombo();
 	}
 	void llenaCombo() {
-		
+		System.out.println("llena combo");
 	}
 	void listado() {
 		
